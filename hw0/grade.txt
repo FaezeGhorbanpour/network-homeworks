@@ -1,0 +1,23 @@
+
+HW: hw0
+STID: 93103436
+Date: 1508575060093
+--------------------
+Setup git
+	first commit ...................... 2/2
+Server test
+	Socket bind ....................... 1/1
+	Simple Message .................... 3/3
+	Multi-line message with no close .. 4/4
+	UTF-8 Test ........................ 4/4
+	Non-blocking ...................... 0/4
+Client test
+	Socket bind ....................... 1/1
+	Simple Message .................... 3/3
+	Multi-line message with no close .. 4/4
+	UTF-8 Test ........................ 4/4
+	Non-blocking ...................... 0/4
+
+
+grade: 26/(30+4)
+comment: 

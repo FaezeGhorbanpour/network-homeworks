@@ -1,0 +1,1 @@
+sudo python DNS_Server.py $1
